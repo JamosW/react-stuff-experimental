@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-content: left;
+}
+
+.header {
+  background-color: rgb(248, 96, 85);
+  height: 55px;
+  width: 100%;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.section--img {
+  height: 175px;
+  width: 125px;
+  border-radius: 20px;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+}
+
+.description {
+  font-size: 15px;
+  position: relative;
+  left: 225px;
+  max-width: 550px;
+  bottom: 20px;
+}
+
+.top-text {
+  display: flex;
+  text-indent: 10px;
+  align-items: center;
+  position: relative;
+  left: 240px;
+  top: 20px;
+}
+
+.rightSect {
+  position: relative;
+  right: 210px;
+}
+
+.title {
+  position: relative;
+  text-align: left;
+  left: 240px;
+  bottom: 10px;
+}
+
+.dates {
+  position: relative;
+  text-align: left;
+  left: 240px;
+  font-weight: bold;
+  font-size: 12px;
+  bottom: 15px;
+}
